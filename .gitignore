@@ -15,5 +15,3 @@ coverage
 # built example app
 dist
 
-# secrets
-config.yml
